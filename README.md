@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Web Development and ML.
+- 👯 I’m looking to collaborate on beginner level django/ML projects and Hackathons.
+
+## About me
+
+I'm Saida. I am currently a student majoring in ICT.
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Python    |
+|     2| C++       |
+|     3| MYSQL     |
+|     4| Java      |
