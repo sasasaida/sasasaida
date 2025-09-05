@@ -26,8 +26,8 @@ I'm Saida. I am currently a student majoring in ICT.
 |-----:|-----------|
 |     1| Python    |
 |     2| C++       |
-|     3| MYSQL     |
-|     4| Java      |
+|     3| Java      |
+|     4| MySQL     |
 |     5| Javascript|
 |     6| HTML      |
 
