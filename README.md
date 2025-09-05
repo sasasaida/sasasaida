@@ -30,5 +30,6 @@ I'm Saida. I am currently a student majoring in ICT.
 |     4| MySQL     |
 |     5| Javascript|
 |     6| HTML      |
+|     7| css       |
 
 
